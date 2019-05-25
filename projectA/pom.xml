@@ -23,8 +23,11 @@
 			
 		</dependency>
   </dependencies>
+  
   <modules>
   	<module>projectB</module>
+  	<module>projectC</module>
   </modules>
+  
 </project>
 	
